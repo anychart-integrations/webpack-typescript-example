@@ -13,23 +13,23 @@ $ git clone git@github.com:anychart-integrations/webpack-typescript-example.git
 
 Navigate to the example directory:
 
-```
+
 $ cd webpack-typescript-example
-```
+
 
 To install dependencies run this command:
 
-```
+
 $ npm install
-```
 
-To bundle project run this command:
 
-```
+To bundle project run following command, it runs webpack with it's config (see package.json):
+
+
 $ npm start
-```
 
-It runs webpack with it's config (see package.json).
+
+Now you may open dist/index.html file to see result.
 
 
 ## Package directory
