@@ -1,4 +1,4 @@
-[<img src="https://cdn.anychart.com/images/logo-transparent-segoe.png?2" width="234px" alt="AnyChart - Robust JavaScript/HTML5 Chart library for any project">](https://anychart.com)
+[<img src="https://cdn.anychart.com/images/logo-transparent-segoe.png?2" width="234px" alt="AnyChart - Robust JavaScript/HTML5 Chart library for any project">](https://www.anychart.com)
 # Webpack / TypeScript / AnyChart example
 
 This example shows how to use Anychart library within the [TypeScript](http://www.typescriptlang.org/) project using [webpack](https://webpack.js.org) bundler.
@@ -55,4 +55,9 @@ webpack-typescript-example/
 * [Webpack & TypeScript guide](https://webpack.js.org/guides/webpack-and-typescript)
 
 ## License
-[© AnyChart.com - JavaScript charts](http://www.anychart.com). Released under the [Apache 2.0 License](https://github.com/anychart-integrations/nodejs-export-server-application/blob/master/LICENSE).
+AnyChart Webpack TypeScript integration sample includes two parts:
+- code of the integration sample that allows to use Javascript library (in this case, AnyChart) with Webpack and TypeScript. You can use, edit, modify it, use it with other Javascript libraries without any restrictions. It is released under [Apache 2.0 License](https://github.com/anychart-integrations/webpack-typescript-example/blob/master/LICENSE)
+- AnyChart JavaScript library. It is released under Commercial license. You can test this plugin with the trial version of AnyChart. Our trial version is not limited by time and doesn't contain any feature limitations. Check details [here](https://www.anychart.com/buy/)
+
+If you have any questions regarding licensing - please contact us. <sales@anychart.com>
+[![Analytics](https://ga-beacon.appspot.com/UA-228820-4/Integrations/webpack-typescript-example?pixel&useReferer)](https://github.com/igrigorik/ga-beacon)

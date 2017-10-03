@@ -18,12 +18,15 @@
     "url": "https://github.com/anychart-integrations/webpack-typescript-example"
   },
   "devDependencies": {
-    "anychart": "^7.14.0",
+    "anychart": "^8.0.0",
     "babel-core": "^6.24.1",
     "babel-loader": "^7.0.0",
     "babel-preset-env": "^1.5.1",
     "ts-loader": "^2.1.0",
     "typescript": "^2.3.4",
     "webpack": "^2.6.1"
+  },
+  "dependencies": {
+    "path": "^0.12.7"
   }
 }

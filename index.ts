@@ -18,6 +18,7 @@ function setupChart(chart: anychart.charts.Cartesian | anychart.charts.Pie, boun
     enabled: true,
     format: labelsFormat
   });
+  chart.hovered().labels().fontColor('red');
   chart.container(stage).draw();
 }
 
